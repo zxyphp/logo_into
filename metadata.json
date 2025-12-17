@@ -1,0 +1,5 @@
+{
+  "name": "MerchAI Studio",
+  "description": "Generate photorealistic merchandise mockups from your logo instantly using Gemini 2.5 Flash Image. Upload, generate, edit with text prompts, and export.",
+  "requestFramePermissions": []
+}
